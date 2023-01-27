@@ -5,6 +5,7 @@ Website Link: https://thejdshop.herokuapp.com/#/
 ## About The Project
 An e-commerce website to purchase products. The project is for demo purposes only (payment API has been deactivated). 
 
+Note: Some files have been omitted because the project is deployed.
 ## Built With
 
 React, Redux, Node, Django, AWS RDS/S3, PostgreSQL/pgAdmin, Bootstrap, Heroku, Python, Javascript, CSS, HTML
